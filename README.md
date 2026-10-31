@@ -29,11 +29,21 @@
 
 ## 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase,git,github" alt="Tech stack" />
-</p>
+**Programming Languages**
 
-TypeScript · JavaScript · Java · React · React Native (Expo) · Next.js · Node.js · Express.js · MongoDB
+<img src="https://skillicons.dev/icons?i=ts,js,java,html,css" alt="Programming languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" alt="Frameworks and libraries" />
+
+React Native (Expo) · Web Audio API · MediaPipe
+
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,gradle" alt="Tools and technologies" />
+
+Jira · JUnit · Render
 
 ## 📌 Projects
 
